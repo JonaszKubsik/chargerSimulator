@@ -12,4 +12,5 @@ Instructions for use:
 
 
 Screenshot of the circuit diagram:
+
 [![image](https://github.com/user-attachments/assets/5d83be17-3521-4b85-a446-7efc331db9a2)](https://github.com/JonaszKubsik/chargerSimulator/blob/main/Scheme.png?raw=true)
